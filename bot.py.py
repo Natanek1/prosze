@@ -28,4 +28,4 @@ class MyClient(discord.Client):
         if message.content == '!nitro':
             await message.author.send(link + gen())
 client = MyClient()
-client.run('ODQ2NDYyMDQ1NDIzNzk2MzI1.YKv3Ng.foP4AgsjXe7KXZTSSMVCXQnHdbQ')
+client.run('ODQ2NDYyMDQ1NDIzNzk2MzI1.YKv3Ng.WUmd04lHr0T1ScwQgb0BmD5SNfk')
